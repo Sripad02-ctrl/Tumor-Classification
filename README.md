@@ -14,16 +14,6 @@ This project uses a **Convolutional Neural Network (CNN)** to classify brain MRI
 It includes model training, evaluation, and comparison with pre-trained architectures like **ResNet18**.
 
 ---
-
-## 📂 Project Structure
-BRAIN TUMOR DETECTION/
-│
-├── Brain_Tumor_Classification.ipynb # Main Jupyter notebook for training/testing
-├── Training/ # Training images dataset
-├── Testing/ # Testing images dataset
-├── models/ # (optional) Saved model weights
-├── README.md # Project description file
-└── .gitignore # Ignored files configuration
 The dataset consists of MRI brain images categorized into:
 
 Training/ – used to train the CNN
